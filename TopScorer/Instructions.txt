@@ -1,0 +1,2 @@
+Instructions:
+-Ensure that the .csv file is in the correct directory which is in the path: "TopScorer\TopScorer\bin\Debug\net6.0\TestData.csv"
